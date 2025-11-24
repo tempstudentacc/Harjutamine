@@ -1,2 +1,5 @@
 1. Koodi haldamine
 2. Juhendite haldamine
+
+"GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris."
+(GitHub. (20. september 2025). Vikipeedia. Vaadatud: 14:06, 24. november 2025, aadressil https://et.wikipedia.org/w/index.php?title=GitHub&oldid=6979035.)
